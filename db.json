@@ -4,22 +4,25 @@
     "user": "mcholotaa",
     "pass":"12345m",
     "rol":"Admin",    
-    "nombre":"Miguel Cholota Alvarado",
-    "photo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-1-avatar-2754574_120513.png?alt=media&token=5b2f44b2-9132-4503-80f6-6f128e8c528f"
+    "name":"Miguel Cholota Alvarado",
+    "img": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-1-avatar-2754574_120513.png?alt=media&token=5b2f44b2-9132-4503-80f6-6f128e8c528f",
+    "mail":"mcholota7@gmail.com"
     },
     {
     "user": "lalvaradoa",
     "pass":"12345l",
-    "rol":"Cliente",    
-    "nombre":"Luis Alvarado Arana",
-    "photo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-3-avatar-2754579_120516.png?alt=media&token=25398b1c-dfab-4223-8098-98f58e1e3324"
+    "rol":"Gerente",    
+    "name":"Luis Alvarado Arana",
+    "img": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-3-avatar-2754579_120516.png?alt=media&token=25398b1c-dfab-4223-8098-98f58e1e3324",
+    "mail":"luisalva97@gmail.com"
     },
     {
     "user": "jfrancob",
     "pass":"12345j",
-    "rol":"Cliente",    
-    "nombre":"Jennifer Franco Burgos",
-    "photo": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-11-avatar-2754576_120520.png?alt=media&token=f2b96ab2-3dd7-4c41-8f2d-2b81790af33f"
+    "rol":"Secretaria",    
+    "name":"Jennifer Franco Burgos",
+    "img": "https://firebasestorage.googleapis.com/v0/b/pimg22.appspot.com/o/iconfinder-11-avatar-2754576_120520.png?alt=media&token=f2b96ab2-3dd7-4c41-8f2d-2b81790af33f",
+    "mail":"jennyfranc02@gmail.com"
     }
 ]
 }
